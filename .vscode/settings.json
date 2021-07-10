@@ -1,0 +1,9 @@
+{
+    "cmake.environment": {
+        "PICO_SDK_PATH": "/home/gareth/Developer/pico/pico-sdk"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "chrono": "cpp"
+    }
+}
